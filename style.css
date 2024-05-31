@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.img{
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.3)), url(./img/slide/slide-1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 90vh;
+    max-width: 100%;
+   
+    
+}
+
+.div1{
+        text-align: center;
+        position: relative;
+        top: 140px;
+        color: rgb(250, 248, 248);      
+}
